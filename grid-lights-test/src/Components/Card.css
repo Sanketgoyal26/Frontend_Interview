@@ -1,0 +1,10 @@
+.card-cell {
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    background-color: transparent;
+}
+
+.fill-cell {
+    background-color: green;
+}

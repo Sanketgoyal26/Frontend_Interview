@@ -1,0 +1,11 @@
+.card-cntr {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    height: 350px;
+    width: 100%; /* Make the width responsive within the grid */
+    box-sizing: border-box; /* Ensure padding and border are included in the width and height */
+    background-color: white; /* Optional: add a background color */
+    padding: 20px; /* Optional: add some padding inside the card */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: add some shadow for better visual appearance */
+}

@@ -1,0 +1,6 @@
+.card-parent {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 20px; /* Adjust the gap as needed */
+  padding: 20px; /* Optional: add some padding around the grid */
+}

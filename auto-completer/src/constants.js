@@ -1,0 +1,28 @@
+export const cities = [
+    "Tokyo", "New Delhi", "London", "Paris", "Sydney",
+    "Beijing", "Rio de Janeiro", "Moscow", "Berlin", "Cairo",
+    "Mexico City", "Bangkok", "Seoul", "Istanbul", "Buenos Aires",
+    "Lagos", "Sao Paulo", "Rome", "Toronto", "Madrid",
+    "Jakarta", "Nairobi", "Lima", "Barcelona", "Lisbon",
+    "Dubai", "Singapore", "Amsterdam", "Kuala Lumpur", "Stockholm",
+    "Vienna", "Hanoi", "Hong Kong", "Manila", "Kolkata",
+    "Bangalore", "Brussels", "Athens", "Copenhagen", "Oslo",
+    "Montreal", "Zurich", "Dublin", "Budapest", "Bucharest",
+    "Prague", "Addis Ababa", "Nairobi", "Santiago", "Birmingham",
+    "Porto", "Valencia", "Marseille", "Genoa", "Helsinki",
+    "Helsinki", "Sofia", "Lviv", "Sarajevo", "Tallinn",
+    "Vilnius", "Riga", "Tbilisi", "Yerevan", "Kyiv",
+    "Tunis", "Casablanca", "Algiers", "Lima", "Quito",
+    "Caracas", "Santo Domingo", "Port-au-Prince", "La Paz", "Asunción",
+    "Antananarivo", "Maputo", "Harare", "Accra", "Kampala",
+    "Kinshasa", "Douala", "Dar es Salaam", "Lagos", "Abuja",
+    "Kinshasa", "Hanoi", "Islamabad", "Karachi", "Chennai",
+    "Ahmedabad", "Pune", "Surabaya", "Dhaka", "Osaka",
+    "Nagoya", "Chengdu", "Xi'an", "Taipei", "Wellington",
+    "Auckland", "Christchurch", "Cairns", "Brisbane", "Gold Coast",
+    "Banjul", "Freetown", "Monrovia", "Nassau", "San Juan",
+    "Puebla", "Guadalajara", "Hermosillo", "Leon", "Mérida",
+    "Quito", "Santiago de Chile", "Lima", "Montevideo", "La Paz",
+    "Helsinki", "Oslo", "Stockholm", "Copenhagen", "Zurich"
+];
+
